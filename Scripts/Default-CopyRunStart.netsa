@@ -1,0 +1,5 @@
+#This script is made to copy running config to startup config
+enable
+$elevatepassword
+copy run start
+

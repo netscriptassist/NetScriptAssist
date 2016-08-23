@@ -1,0 +1,4 @@
+enable
+$elevatepassword
+term length 0
+show run
